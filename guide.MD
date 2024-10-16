@@ -70,7 +70,7 @@ forge create src/simple.sol:SimpleToken --rpc-url unichain --private-key <enter_
 ```
 
 ## Verify and publish contract
-- Copy the contract address. (It's under the `Deployed to:`.)
+- Copy the contract address under "Deployed to:".
 - Open [unichain testnet explorer](https://unichain-sepolia.blockscout.com/), paste the contract address in the search box and press "enter".
 - 
 - Select the "contract" column.
